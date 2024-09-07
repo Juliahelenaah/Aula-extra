@@ -1,3 +1,42 @@
-.cabecalho(
+.corpodosite{
+    color: white;
+    font-size: 20px;
+}
 
-)
+.cão{
+    background-image: linear-gradient(black,white);
+    color: azure;
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+}
+
+.gato{
+    background-image: linear-gradient(white, orange);
+    padding: 100px;
+    justify-content: center;
+}
+
+.Comida{
+    background-image: linear-gradient(orange, black;
+    padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
+.rodape{
+    background-image: linear-gradient(blue,black);
+    color: white;
+}
+
+.banho{
+    padding-right: 20cm;
+    width: 20cm;
+}
+
+.alimento{
+    padding-right: 20cm;
+    width: 20cm;
+}
